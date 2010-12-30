@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For xbee
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+xbeeSRst	KEYWORD1
+xbeeSRso	KEYWORD1
+IOdataParser	KEYWORD1
+xbeeIOdataParser	KEYWORD1
+xbeeATst	KEYWORD1
+xbeeATso	KEYWORD1 
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendData	KEYWORD2
+sendLocalAtCommandWithOptions	KEYWORD2
+sendLocalAtCommand	KEYWORD2
+sendAtCommand		KEYWORD2
+getLocalATCommandData	KEYWORD2
+getDataAuto	KEYWORD2
+getData	KEYWORD2
+getPacketLength	KEYWORD2
+getApiIdentifier	KEYWORD2
+getSendersHighAddress	KEYWORD2
+getSendersLowAddress	KEYWORD2
+getSenderslocalAdress	KEYWORD2
+getOptions	KEYWORD2
+getAutoReceivedData	KEYWORD2
+getDataLength	KEYWORD2
+getchecksum	KEYWORD2
+getframeID	KEYWORD2
+getATcommand	KEYWORD2
+getATCommandData	KEYWORD2
+getstatus	KEYWORD2
+sendAtCommandWithOptions	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
